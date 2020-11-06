@@ -2,6 +2,7 @@
   "name": "fstd-project-7-react-gallery",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Webdev-DavidM.github.io/TDFS-project7-react-gallery",
   "engines": {
     "npm": "6.13.1"
   },
@@ -12,6 +13,7 @@
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
+    "gh-pages": "^3.1.0",
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -20,9 +22,12 @@
   },
   "scripts": {
     "start": "node server.js",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": "react-app"
