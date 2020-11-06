@@ -107,6 +107,7 @@ export default class App extends Component {
         />
         <Nav />
         <div>
+        update test
           <Switch>
             <Route exact path="/" render={() => <Redirect to="/beach" />} />
             <Route

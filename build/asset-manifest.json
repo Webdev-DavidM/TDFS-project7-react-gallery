@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TDFS-project7-react-gallery/static/css/main.04fc192e.chunk.css",
+    "main.js": "/TDFS-project7-react-gallery/static/js/main.ceab8be5.chunk.js",
+    "main.js.map": "/TDFS-project7-react-gallery/static/js/main.ceab8be5.chunk.js.map",
+    "runtime-main.js": "/TDFS-project7-react-gallery/static/js/runtime-main.d2ebe338.js",
+    "runtime-main.js.map": "/TDFS-project7-react-gallery/static/js/runtime-main.d2ebe338.js.map",
+    "static/js/2.004f842d.chunk.js": "/TDFS-project7-react-gallery/static/js/2.004f842d.chunk.js",
+    "static/js/2.004f842d.chunk.js.map": "/TDFS-project7-react-gallery/static/js/2.004f842d.chunk.js.map",
+    "index.html": "/TDFS-project7-react-gallery/index.html",
+    "precache-manifest.4fa86cc4a5b8b937d38dcae8be644508.js": "/TDFS-project7-react-gallery/precache-manifest.4fa86cc4a5b8b937d38dcae8be644508.js",
+    "service-worker.js": "/TDFS-project7-react-gallery/service-worker.js",
+    "static/css/main.04fc192e.chunk.css.map": "/TDFS-project7-react-gallery/static/css/main.04fc192e.chunk.css.map",
+    "static/js/2.004f842d.chunk.js.LICENSE.txt": "/TDFS-project7-react-gallery/static/js/2.004f842d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ebe338.js",
+    "static/js/2.004f842d.chunk.js",
+    "static/css/main.04fc192e.chunk.css",
+    "static/js/main.ceab8be5.chunk.js"
+  ]
+}
